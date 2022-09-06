@@ -1,0 +1,11 @@
+\beamer@sectionintoc {1}{Introduction}{3}{0}{1}
+\beamer@sectionintoc {2}{Elements of collision theory}{4}{0}{2}
+\beamer@subsectionintoc {2}{1}{The scattering cross section}{4}{0}{2}
+\beamer@subsectionintoc {2}{2}{The Schr\"{o}dinger equation}{7}{0}{2}
+\beamer@subsectionintoc {2}{3}{Partial wave analysis. Phase shifts.}{11}{0}{2}
+\beamer@subsectionintoc {2}{4}{Low energies limit. The scattering length}{17}{0}{2}
+\beamer@sectionintoc {3}{Numerical results}{19}{0}{3}
+\beamer@subsectionintoc {3}{1}{Scattering lenght for some simple potentials}{19}{0}{3}
+\beamer@subsectionintoc {3}{2}{Poten\c {t}ial aproximat pentru atomi de Cs.}{25}{0}{3}
+\beamer@sectionintoc {4}{Conclusion}{28}{0}{4}
+\beamer@sectionintoc {5}{Reference list}{29}{0}{5}
