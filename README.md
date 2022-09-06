@@ -6,8 +6,8 @@
 ### Thesis
 
 - *thesis-code* contains Mathematica scripts for scattering length 
-- *thesis-source-ro* contains TeX source code for the Thesis 
-- *bachelor-thesis.pdf* is the thesis in Romanian only
+- *thesis-source-ro* contains TeX source code for the Thesis in Romanian
+- *bachelor-thesis.pdf* is the thesis in Romanian 
 
 ---
 ### Presentation
