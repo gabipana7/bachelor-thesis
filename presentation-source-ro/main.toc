@@ -1,0 +1,10 @@
+\beamer@sectionintoc {1}{Introducere}{3}{0}{1}
+\beamer@sectionintoc {2}{Elemente de teoria ciocnirilor}{4}{0}{2}
+\beamer@subsectionintoc {2}{1}{Ciocniri \^{i}n mecanica clasic\u {a}}{4}{0}{2}
+\beamer@subsectionintoc {2}{2}{Ecua\c {t}ia Schr\"{o}dinger.}{6}{0}{2}
+\beamer@subsectionintoc {2}{3}{Sec\c {t}iunea de \^{i}mpr\u {a}\c {s}tiere. Limita de energii joase}{10}{0}{2}
+\beamer@sectionintoc {3}{Rezultate numerice}{15}{0}{3}
+\beamer@subsectionintoc {3}{1}{Lungimea de \^{i}mpr\u {a}\c {s}tiere pentru pote\c {t}iale simple}{15}{0}{3}
+\beamer@subsectionintoc {3}{2}{Poten\c {t}ial aproximat pentru atomi de Cs}{19}{0}{3}
+\beamer@sectionintoc {4}{Concluzii}{22}{0}{4}
+\beamer@sectionintoc {5}{Bibliografie}{23}{0}{5}
