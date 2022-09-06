@@ -1,0 +1,18 @@
+\BOOKMARK [0][-]{chapter.1}{Introducere}{}% 1
+\BOOKMARK [0][-]{chapter.2}{Elemente de teoria ciocnirilor}{}% 2
+\BOOKMARK [1][-]{section.2.1}{Ciocniri \356n mecanica clasica. Sistemul laborator si sistemul centrului de masa}{chapter.2}% 3
+\BOOKMARK [1][-]{section.2.2}{Ecuatia Schr\366dinger. Solutia de \356mprastiere}{chapter.2}% 4
+\BOOKMARK [2][-]{subsection.2.2.1}{Amplitudinea de \356mprastiere. Sectiunea diferentiala}{section.2.2}% 5
+\BOOKMARK [2][-]{subsection.2.2.2}{Aproximatia Born}{section.2.2}% 6
+\BOOKMARK [1][-]{section.2.3}{Sectiunea de \356mprastiere, limita de enegii joase}{chapter.2}% 7
+\BOOKMARK [2][-]{subsection.2.3.1}{Analiza partiala a undei. Defazaje}{section.2.3}% 8
+\BOOKMARK [2][-]{subsection.2.3.2}{Particule identice}{section.2.3}% 9
+\BOOKMARK [2][-]{subsection.2.3.3}{Limita de energii joase. Lungimea de \356mprastiere}{section.2.3}% 10
+\BOOKMARK [0][-]{chapter.3}{Rezultate numerice}{}% 11
+\BOOKMARK [1][-]{section.3.1}{Lungimea de \356mprastiere pentru c\342teva potentiale simple }{chapter.3}% 12
+\BOOKMARK [2][-]{subsection.3.1.1}{Treapta de potential}{section.3.1}% 13
+\BOOKMARK [2][-]{subsection.3.1.2}{Groapa de potential}{section.3.1}% 14
+\BOOKMARK [2][-]{subsection.3.1.3}{Potential de tip Van der Waals}{section.3.1}% 15
+\BOOKMARK [1][-]{section.3.2}{Potential aproximat pentru atomi de Cs}{chapter.3}% 16
+\BOOKMARK [0][-]{appendix.A}{Functii Bessel sferice}{}% 17
+\BOOKMARK [0][-]{appendix.B}{Algoritmul si codul numeric}{}% 18

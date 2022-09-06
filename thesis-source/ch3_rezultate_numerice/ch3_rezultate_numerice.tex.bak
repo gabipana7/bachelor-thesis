@@ -1,0 +1,35 @@
+\chapter{Elemente de teoria ciocnirilor}
+
+\section{Defini\c tii}
+
+Definirea ciocnirii: din punct de vedere experimental
+
+Definirea sec\c tiunii diferen\c tiale (in cadrul fizicii clasice)
+
+Definirea centrului de masa/laboratorului, cum se trece de la una la alta...
+
+
+\section{Ecua\c tia Schr\"odinger radial\u a, defazaje}
+
+Studiem doar impr\u a\c stierea pe poten\c tial central
+
+Ec radiala
+
+\begin{align}
+-\frac{\hbar^2}{2m}\frac{d^R}{dr^2}+\left[fkl\right]=& jkfdngl kfmv\\
+&\alpha+\beta\label{ecs}
+\end{align}
+
+Definirea defazajelor
+
+(cu func\c tii Bessel citate din anexa)
+
+Definirea si descompunerea in unde partiale a solu\c tiei de \^{\i}mpr\u a\c stiere
+
+Amplitudinea de impr\u a\c stiere, exprimat\u a prin defazaje
+
+Aproxima\c tia Born
+
+\section{Sectiunea de imprastiere, limita de enegii mici}
+
+
